@@ -1,6 +1,5 @@
 # 👋 Selam, Ben Mustafa!
 
-### 🚀 Nelerle Uğraşıyorum?
 Teknoloji dünyasını kendi halimde takip ediyor, tasarım ve kodun birleştiği yerlerde vakit geçirmeyi seviyorum. Modern arayüzler ve kullanıcı deneyimi üzerine kafa yormak benim için bir nevi hobi.
 
 * 🛠️ **Çalışma Tarzım:** Şu an aktif, bağlayıcı bir projem yok; tamamen kendi isteğime bağlı, canım nasıl isterse öyle ama genelde **Frontend projeleri** geliştiriyorum. Biraz takılmaca, biraz kendimi geliştirmece.
